@@ -1,0 +1,18 @@
+.question_table{
+    margin: 0 auto;
+    width: 30%;
+    border-radius: 25px;
+    background-color: ivory;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.some_question{
+    width: 100%;
+    text-align: center;
+}
+.some_variant{
+    padding-left: 2rem;
+}
+.button_save{
+    width: 100px;
+}

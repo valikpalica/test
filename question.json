@@ -1,0 +1,12 @@
+[
+    {
+        "question":"Best language?",
+        "array_vatiant":[{"a":"JS"},{"b":"JAVA"},{"c":"Python"},{"d":"C#"}],
+        "correct_answer":"a"
+    },
+    {
+        "question":"What is node js?",
+        "array_vatiant":[{"a":"language"},{"b":"platform"},{"c":"library"},{"d":"fremwork"}],
+        "correct_answer":"b"
+    }
+]

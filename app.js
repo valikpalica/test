@@ -43,7 +43,6 @@ app.get('/question',(req,res)=>{
 });
 app.post('/getAnswers',(req,res)=>{
     let {array_correct_answers,answers:array_user_answer,correct_answer,total } = controller_equal_answer(req.body);
-    //console.log(array_correct_answers,array_user_answer);
     res.json({array_correct_answers,array_user_answer,correct_answer,total});
 })
 app.listen(8080,()=>{

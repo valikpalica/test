@@ -5,8 +5,28 @@
         "correct_answer":"a"
     },
     {
-        "question":"What is node js?",
+        "question":"What is it node js?",
         "array_vatiant":[{"a":"language"},{"b":"platform"},{"c":"library"},{"d":"fremwork"}],
         "correct_answer":"b"
+    },
+    {
+        "question":"What is it express? ",
+        "array_vatiant":[{"a":"framework"},{"b":"platform"},{"c":"library"},{"d":"web aplication"}],
+        "correct_answer":"a"
+    },
+    {
+        "question":"What we use in asynchrony function?",
+        "array_vatiant":[{"a":"async"},{"b":"await"},{"c":"async await"},{"d":"calback"}],
+        "correct_answer":"c"
+    },
+    {
+        "question":"What is HTTP?",
+        "array_vatiant":[{"a":"Hyper Text Transfer Protocol"},{"b":"Hyper Text Transaction Protocol"},{"c":"Hyper Text Transaction Prototype"},{"d":"However Text Transaction Prototype"}],
+        "correct_answer":"a"
+    },
+    {
+        "question":"How create static folder?",
+        "array_vatiant":[{"a":"app.use(express.static('public'));"},{"b":"app.set(express.static('public'));"},{"c":"express.static('public')"},{"d":"app.use('public')"}],
+        "correct_answer":"a"
     }
 ]

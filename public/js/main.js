@@ -88,7 +88,7 @@ const match = (array_correct_answers,array_user_answer) =>{
 
 const work_btn  = () =>{
                 let button = document.getElementById('save');
-               if(button!=null){
+                if(button!=null){
                 button.remove();
                 let button_redirect = document.createElement('button');
                 button_redirect.className = 'btn btn-primary button_save';
